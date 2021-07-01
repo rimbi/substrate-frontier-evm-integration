@@ -1,4 +1,4 @@
-# Substrate Node Template
+# Substrate Node Template With Frontier EVM
 
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
 
